@@ -1,1 +1,2 @@
-Dit is een test Repo met supercoole scripts !
+Dit is een test Repo met scripts !
+En wat er nog meer nodig is
